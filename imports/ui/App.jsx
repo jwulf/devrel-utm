@@ -1,6 +1,4 @@
 import React from 'react';
-import { Hello } from './Hello.jsx';
-import { Info } from './Info.jsx';
 import { LinkGenerator }  from './LinkGenerator.jsx';
 
 export const App = () => (
